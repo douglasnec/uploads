@@ -1,0 +1,4 @@
+Para o tratamento de imagem será utilizado o rmagick
+Para instalar digite:
+sudo apt-get install libmagick9-dev ruby1.8-dev
+sudo gem install rmagick
